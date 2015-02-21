@@ -1,0 +1,9 @@
+C:\Users\Ki\Google Drive\Programming Fundamentals\PotentialEnergy\PotentialEnergy\bin\Debug\PotentialEnergy.exe.config
+C:\Users\Ki\Google Drive\Programming Fundamentals\PotentialEnergy\PotentialEnergy\obj\Debug\PotentialEnergy.csprojResolveAssemblyReference.cache
+C:\Users\Ki\Google Drive\Programming Fundamentals\PotentialEnergy\PotentialEnergy\obj\Debug\PotentialEnergy.Form1.resources
+C:\Users\Ki\Google Drive\Programming Fundamentals\PotentialEnergy\PotentialEnergy\obj\Debug\PotentialEnergy.Properties.Resources.resources
+C:\Users\Ki\Google Drive\Programming Fundamentals\PotentialEnergy\PotentialEnergy\obj\Debug\PotentialEnergy.csproj.GenerateResource.Cache
+C:\Users\Ki\Google Drive\Programming Fundamentals\PotentialEnergy\PotentialEnergy\bin\Debug\PotentialEnergy.exe
+C:\Users\Ki\Google Drive\Programming Fundamentals\PotentialEnergy\PotentialEnergy\bin\Debug\PotentialEnergy.pdb
+C:\Users\Ki\Google Drive\Programming Fundamentals\PotentialEnergy\PotentialEnergy\obj\Debug\PotentialEnergy.exe
+C:\Users\Ki\Google Drive\Programming Fundamentals\PotentialEnergy\PotentialEnergy\obj\Debug\PotentialEnergy.pdb
